@@ -12,7 +12,9 @@ SubFlow is implemented based on Python and TensorFlow. The TensorFlow version sh
 
 **Step 2.** Install [Tensorflow (<= 1.13.2)](https://www.tensorflow.org/).
 
-**Step 3.** Clone the SubFlow repository.
+**Step 3.** Install [NVIDIA CUDA (>= 10.0)](https://developer.nvidia.com/cuda-downloads).
+
+**Step 4.** Clone this SubFlow repository.
 ```sh
 $ git clone https://github.com/realtimednn-rtas2020/SubFlow.git
 Cloning into 'SubFlow'...
