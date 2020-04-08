@@ -262,3 +262,11 @@ The following images show the visualized timeline of the SubFlow DNN execution f
 
 * **Training with network utilization 1.0**
 ![Training with network utilization 1.0](/images/train_1.0.png)
+
+
+&nbsp;
+## Citation (BibTeX)
+**SubFlow: A Dynamic Induced-Subgraph Strategy Toward Real-Time DNN Inference and Training**
+```
+COMING SOON
+```
