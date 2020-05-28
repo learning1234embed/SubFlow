@@ -1,4 +1,4 @@
-# SubFlow: A Dynamic Induced-Subgraph Strategy Toward Real-Time DNN Inference and Training
+# [RTAS 2020] SubFlow: A Dynamic Induced-Subgraph Strategy Toward Real-Time DNN Inference and Training
 ## Introduction
 
 This Git repository provides the source code of ***SubFlow***, an [RTAS 2020](http://2020.rtas.org/) paper titled "***SubFlow: A Dynamic Induced-Subgraph Strategy Toward Real-Time DNN Inference and Training***". SubFlow enables real-time inference and training of a deep neural network (DNN) by dynamically executing a sub-graph of the DNN according to the timing constraint changing at run-time.
