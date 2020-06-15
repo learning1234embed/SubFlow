@@ -268,5 +268,12 @@ The following images show the visualized timeline of the SubFlow DNN execution f
 ## Citation (BibTeX)
 **SubFlow: A Dynamic Induced-Subgraph Strategy Toward Real-Time DNN Inference and Training**
 ```
-COMING SOON
+@inproceedings{lee2020subflow,
+  title={SubFlow: A Dynamic Induced-Subgraph Strategy Toward Real-Time DNN Inference and Training},
+  author={Lee, Seulki and Nirjon, Shahriar},
+  booktitle={2020 IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS)},
+  pages={15--29},
+  year={2020},
+  organization={IEEE}
+}
 ```
